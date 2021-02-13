@@ -1,4 +1,4 @@
-# vue-app
+# Alquran Online
 
 ## Project setup
 ```
