@@ -55,7 +55,7 @@
   <div class="bg-blue-200 bottom-0 mt-12">
          <div class="text-sm text-center p-4">
            <div class="arabic">
-             &copy<span>copyright-2021</span>
+             <span>copyright-2021</span>
              </div>
         </div>
     </div>
